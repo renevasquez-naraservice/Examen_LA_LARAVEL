@@ -3,6 +3,8 @@
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
+// Agregamos
+use Illuminate\Database\Eloquent\Factories\HasFactory; 
 
 class Empleado extends Model
 {
